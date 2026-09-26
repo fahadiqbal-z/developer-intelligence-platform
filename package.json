@@ -1,0 +1,42 @@
+{
+  "name": "developer-intelligence-platform",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "@prisma/client": "^5.22.0",
+    "@types/bcryptjs": "^2.4.6",
+    "@types/diff": "^7.0.2",
+    "@types/jsonwebtoken": "^9.0.10",
+    "bcryptjs": "^3.0.3",
+    "diff": "^9.0.0",
+    "diff2html": "^3.4.56",
+    "highlight.js": "^11.12.0",
+    "jsonwebtoken": "^9.0.3",
+    "jszip": "^3.10.2",
+    "lucide-react": "^1.48.0",
+    "next": "16.3.6",
+    "prisma": "^5.22.0",
+    "react": "19.2.8",
+    "react-dom": "19.2.8",
+    "zustand": "^5.0.15"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20.19.43",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "@vitejs/plugin-react": "^6.1.1",
+    "eslint": "^9",
+    "eslint-config-next": "16.3.6",
+    "tailwindcss": "^4",
+    "tsx": "^4.23.15",
+    "typescript": "^5",
+    "vitest": "^4.1.11"
+  }
+}
