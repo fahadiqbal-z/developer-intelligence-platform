@@ -106,7 +106,7 @@ Unlike superficial AI chatbot wrappers or mock dashboards with fabricated metric
 
 ### Step 1: Clone and Install
 ```bash
-git clone https://github.com/your-username/developer-intelligence-platform.git
+git clone https://github.com/fahadiqbal-z/developer-intelligence-platform.git
 cd developer-intelligence-platform
 npm install
 ```
